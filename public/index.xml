@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Daciana Draghia on </title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Daciana Draghia on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Apr 2024 11:00:59 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>REST API aplication on Google Cloud Platform</title>
+      <link>http://localhost:1313/post/chapter-2/</link>
+      <pubDate>Wed, 10 Apr 2024 11:00:59 -0400</pubDate>
+      <guid>http://localhost:1313/post/chapter-2/</guid>
+      <description>The project presents a REST API aplication developed in Python and Flask that was created to retrieve data about books from a SQLite3 database: https://github.com/cpatrickalves/simple-flask-api A REST API exposes the functionalities of an application or a database through a set of endpoints (URL addresses).&#xA;These URLs are accessed by clients such as web, mobile apps, or other web services to perform CRUD operations (Create, Read, Update, Delete) or other actions using HTTP requests.</description>
+    </item>
+    <item>
+      <title>Fingerprint recognition, Python, Tkinter</title>
+      <link>http://localhost:1313/post/chapter-1/</link>
+      <pubDate>Fri, 01 Mar 2024 13:16:06 +0300</pubDate>
+      <guid>http://localhost:1313/post/chapter-1/</guid>
+      <description>A biometric fingerprint recognition system is organized into four main stages: fingerprint input, feature extraction of fingerprints, comparison stage with the fingerprint set from the database (1:N type comparisons), and the final stage of deciding whether there is a match with a record in the dataset. link to the project on github&#xA;The following figure shows the logical scheme and structure of the project. It also illustrates the addition of a new fingerprint to the database and the deletion of a record.</description>
+    </item>
+    <item>
+      <title>Tutorial - static website with Hugo and Github pages</title>
+      <link>http://localhost:1313/post/chapter-5/</link>
+      <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
+      <guid>http://localhost:1313/post/chapter-5/</guid>
+      <description>This tutorial will help you build and host your static website. link to the video on youtube&#xA;Install powershell 7 on a windows system Check the version of PowerShell you have on your system, open PowerShell and type $PSVersionTable.PSVersion To install PowerShell 7 on your system using Winget type the following command t winget install &amp;ndash;id Microsoft.Powershell &amp;ndash;source winget Install Visual studio code Install Go Setup a github account and github desktop Installing Hugo using Chocolatey Chocolatey is a popular package manager for Windows that simplifies the installation of software and manages dependencies neatly.</description>
+    </item>
+    <item>
+      <title>Power BI: Pie chart</title>
+      <link>http://localhost:1313/post/chapter-4/</link>
+      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
+      <guid>http://localhost:1313/post/chapter-4/</guid>
+      <description>Our data: The result </description>
+    </item>
+    <item>
+      <title>Power BI: extracting values</title>
+      <link>http://localhost:1313/post/chapter-3/</link>
+      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
+      <guid>http://localhost:1313/post/chapter-3/</guid>
+      <description>Question to be answered in this project: How many kids do married people have in average in our dataset?&#xA;I cleaned the data first using the following tools /steps in Power BI: o Remove Top Rows&#xA;o First row as a header&#xA;o Changing column names&#xA;o Removing invalid rows&#xA;o Setting up the data types (replace values if necessary)</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>I am currently pursuing a Master’s degree in Data Engineering, with a focus on cloud technologies, data processing, and visualization. I aim to integrate my creative background with new skills to make a significant contribution to the tech industry.&#xA;A selection of my work in photography and graphic design </description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>You can send me an email at daci.draghia@gmail.com</description>
+    </item>
+  </channel>
+</rss>
