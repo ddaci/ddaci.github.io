@@ -7,18 +7,11 @@ Bine ai venit la [ddaci.github.io](https://ddaci.github.io/), portofoliul meu pe
 ###  **Proiecte academice - Ingineria Datelor**
 - Aplicații practice în **Big Data**, **Cloud Computing**, **Machine Learning** și **IoT**.
 - Analize de date, modele predictive și implementări utilizând tehnologii moderne.
-- Proiecte documentate cu cod sursă și explicații în Jupyter Notebooks și alte formate relevante.
+- Proiecte documentate cu cod sursă și explicații.
 
 ###  **Portofoliu grafic și fotografie**
 - Design grafic pentru web și print: branding, afișe, materiale promoționale.
 - Fotografie comercială și artistică: portrete, produse, evenimente.
-
-##  **Tehnologii utilizate**
-- **Big Data:** Hadoop, Spark, Hive  
-- **Machine Learning:** Scikit-Learn, TensorFlow  
-- **Cloud:** Microsoft Azure, Kaggle  
-- **Design:** Adobe Photoshop, Illustrator, InDesign  
-- **Web:** HTML, CSS  
 
 **Explorează portofoliul aici:** 👉 [ddaci.github.io](https://ddaci.github.io/)
 
